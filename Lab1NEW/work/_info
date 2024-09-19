@@ -1,0 +1,95 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abadd/Documents/Lab1NEW
+T_opt
+!s110 1726758386
+VU6ORb=CDK=@3:QFAo_J0]2
+04 2 4 work tb fast 0
+=1-f44637824475-66ec3df2-52-3f7c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+vfull_adder1
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1726758385
+!i10b 1
+!s100 aW_9aWIn]o1Q4dKhm6FKE3
+IXDjHNOH:S<ab3ojX=CKf90
+S1
+R0
+w1726758092
+8full_adder1.sv
+Ffull_adder1.sv
+!i122 0
+L0 1 6
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1726758385.000000
+Z7 !s107 RCA1_tb.sv|full_adder1.sv|RCA1.sv|
+Z8 !s90 -reportprogress|300|RCA1.sv|full_adder1.sv|RCA1_tb.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vRCA1
+R2
+R3
+!i10b 1
+!s100 cUbeXH8T^??2bc_R5ia^i2
+IaAjJ6[0ZHWfooI=Y7oF4>0
+S1
+R0
+w1726758368
+8RCA1.sv
+FRCA1.sv
+!i122 0
+L0 1 14
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@r@c@a1
+vtb
+R2
+R3
+!i10b 1
+!s100 UO7[R@S_bKY`QSiZJN@l;3
+ISHm7lAL[5hP7SZI;P=;k90
+S1
+R0
+w1726758328
+8RCA1_tb.sv
+FRCA1_tb.sv
+!i122 0
+L0 3 47
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
